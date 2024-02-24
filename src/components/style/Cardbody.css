@@ -1,0 +1,13 @@
+#card-img{
+    width: 100%;
+    height: 550px;
+}
+#del-price{
+    text-decoration: line-through;
+}
+#cards{
+   height: 700px;
+   border: solid;
+   border-color: black;
+   
+}
